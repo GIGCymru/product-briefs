@@ -1,36 +1,8 @@
-# GIG Cymru NHS Wales - {Documentation Site Title}
+# GIG Cymru NHS Wales - Product Briefs
 
-> ## How to use this template
->
-> ### 1. Create a new repository based on this template
->
-> See [GitHub Creating a Repository from a Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
->
-> ### 2. Replace all references to `documentation-site-template`
->
-> Replace this with the name of your new repository derived from this template.
->
-> Specifically will need to update the following files:
->
-> ```sh
-> Makefile
-> mkdocs.yml
-> pyproject.toml
-> README.md
-> ```
->
-> ### 3. Setup GitHub Pages
->
-> In the Settings for your repository in GitHub.com under the **Pages**
-section, ensure the `source` is set to **Deploy from a branch** and select
-`gh_pages` as the branch.
->
+[![mkdocs](https://github.com/GIG-Cymru-NHS-Wales/product-briefs/actions/workflows/publish.yml/badge.svg)](https://github.com/GIG-Cymru-NHS-Wales/product-briefs/actions/workflows/publish.yml)
 
----
-
-[![mkdocs](https://github.com/GIG-Cymru-NHS-Wales/documentation-site-template/actions/workflows/publish.yml/badge.svg)](https://github.com/GIG-Cymru-NHS-Wales/documentation-site-template/actions/workflows/publish.yml)
-
-The documents in this repository are published to [https://gig-cymru-nhs-wales.github.io/documentation-site-template/](https://gig-cymru-nhs-wales.github.io/documentation-site-template/).
+The documents in this repository are published to [https://gig-cymru-nhs-wales.github.io/product-briefs/](https://gig-cymru-nhs-wales.github.io/product-briefs/).
 
 ## Getting Started
 
@@ -40,7 +12,7 @@ There are several ways to set up your development environment:
 
 The fastest way to start contributing:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GIG-Cymru-NHS-Wales/documentation-site-template?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GIG-Cymru-NHS-Wales/product-briefs?quickstart=1)
 
 This provides:
 
@@ -77,8 +49,8 @@ is faster on subsequent launches as the environment is then cached.
 Clone the repository:
 
 ```bash
-    git clone https://github.com/GIG-Cymru-NHS-Wales/documentation-site-template.git
-    cd documentation-site-template
+    git clone https://github.com/GIG-Cymru-NHS-Wales/product-briefs.git
+    cd product-briefs
 ```
 
 Install uv (if not already installed):
