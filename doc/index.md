@@ -1,3 +1,4 @@
-# GIG Cymru - NHS Wales - {Site Title}
+# GIG Cymru - NHS Wales - Product Briefs
 
-Hello World!
+!!! warning
+    This is a placeholder for the Product Briefs site.
