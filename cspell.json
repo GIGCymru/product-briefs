@@ -1,0 +1,14 @@
+{
+    "version": "0.2",
+    "language": "en,en-GB",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "DHCW",
+        "mkdoc",
+        "mkdocs"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
