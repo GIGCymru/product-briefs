@@ -2,5 +2,6 @@ append_unmatched: true
 flatten_single_child_sections: true
 nav:
   - Home: index.md
-  - Template: product-brief-template.md
-
+  - Product Briefs:
+      - Template: product-brief-template.md
+      - Integration Hub: integration-hub.md
