@@ -3,7 +3,7 @@
 !!! info
     **Owner**: { Person or team that owns the Product }
 
-    **Status**: { Pre-Discovery | Discovery   | Alpha | 
+    **Phase**: { Pre-Discovery | Discovery   | Alpha | 
                   Private-Beta  | Public-Beta | Live }
 
     **Updated**: { YYYY-MM-DD }
