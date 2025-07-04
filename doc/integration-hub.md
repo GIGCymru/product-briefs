@@ -71,11 +71,17 @@ The expected business outcomes and benefits are:
 
 * High-demand, transferable skills and cloud-native development.
 * Investment in our team's professional growth and future career opportunities.
+* Faster and more consistent development and deployment of new integrations, supported by comprehensive automation.
+* Greater agility and flexibility in building and adapting integration solutions to meet evolving needs.
+* Improved patient outcomes and timely, data-driven decisions through reliable access to accurate clinical information.
+* Enhanced system reliability, resilience, and scalability through a modern, cloud-native architecture.
+* Centralised visibility and easier troubleshooting of integration health via comprehensive observability dashboards.
+* Stronger assurance of data security, quality, and compliance for sensitive patient information.
 
 ## Strategic Alignment
 
-This product is a foundational component for delivering the [DHCW Organisational Strategy 2024-2030](https://dhcw.nhs.wales/about-us/key-documents/strategies/organisational-strategy-2024-2030/), directly enabling
-several key missions and principles:
+This product is a foundational component for delivering the [DHCW Organisational Strategy 2024-2030](https://dhcw.nhs.wales/about-us/key-documents/strategies/organisational-strategy-2024-2030/),
+directly enabling several key missions and principles:
 
 * **Mission 1**: Provide a platform for enabling digital transformation. The Integration
 Hub is the core engine for this mission. It directly facilitates the move to a
@@ -97,7 +103,7 @@ standards and cloud-native services to ensure resilience and interoperability by
 * Design for more data, more digital: It provides the scalable foundation needed
 to handle the growing volume of digital data across the health and care system.
 
-## Scope (In-Scope & Out-of-Scope)
+## Scope
 
 In-Scope:
 
@@ -126,3 +132,21 @@ fast and consistent development of new integrations.
 
 * Cloud Platform Provider (i.e. Azure) for all underlying infrastructure services.
 * Integration with a wide range of internal NHS Wales systems and approved third-party applications.
+
+## Objectives and Key Results (OKRs)
+
+**Objective 1:** Prove the platform's value and drive initial adoption
+
+| Key Result | Description |
+| :--------: | ----------- |
+| 1.1        | Successfully migrate 3 integrations from the legacy system to the Integration Hub. |
+| 1.2        | Reduce the average time to develop and deploy a new integration by 30% compared to the legacy system. |
+
+**Objective 2:** Enhance platform stability and operational excellence
+
+| Key Result | Description |
+| :--------: | ----------- |
+| 2.1        | Maintain 99.9% uptime for all production integrations running on the hub. |
+| 2.2        | Achieve an average end-to-end data processing latency of under 500ms for 95% of transactions. |
+| 2.3        | Ensure 100% of integration errors are captured and alerted on via the observability dashboard within 5 minutes of occurrence. |
+| 2.4        | Successfully handle a 2x spike in transaction volume during a load test with no manual intervention and a proportional cost increase, proving the pay-as-you-grow model. |

@@ -56,6 +56,11 @@ Identify the primary and secondary users of your product or service.
     * Outline their high-level needs, pain points, and goals related to this product.
     * Consider different user types (e.g., internal staff, end users, administrators).
 
+| Users                  | Needs           |
+| ---------------------- | --------------- |
+| A user of the product  | The key high level needs, goals etc. of the user |
+| Another user           | The specific needs of this user |
+
 ## User Outcomes & Benefits
 
 What tangible benefits will users gain from this product? What positive changes
@@ -78,7 +83,7 @@ overarching strategic goals and objectives.
     * Articulate *how* the product's success will enable the achievement of these
      broader goals.
 
-## Scope (In-Scope & Out-of-Scope)
+## Scope
 
 Clearly define what is included within the product's current scope and, equally
 important, what is explicitly out of scope.
@@ -104,3 +109,33 @@ the product's success.
     * Consider technical, market, operational, or organisational risks.
     * List critical beliefs about users, technology, or market conditions that
     must hold true for the product to succeed.
+
+## Objectives and Key Results (OKRs)
+
+List the high level objectives and key results for the product.
+
+!!! tip
+
+    *   **Objectives** should be ambitious, qualitative, and inspirational goals.
+        They answer the question: "What do we want to achieve?"
+    *   **Key Results** are the measurable outcomes that prove you've met your
+        objective. They must be quantifiable and answer the question: "How will
+        we know we've achieved it?"
+    *   Aim for 2-4 key results per objective.
+    *   Focus on outcomes (e.g., "Reduce user error rate by 15%") not outputs
+        (e.g., "Ship feature X").
+
+**Objective 1:** A clear, high level objective for the product
+
+| Key Result | Description |
+| :--------: | ----------- |
+| 1.1        | Specify a measurable key result with a clear target e.g. increase x by y%. |
+| 1.2        | Add another key result. |
+
+**Objective 2:** Another high-level objective
+
+| Key Result | Description |
+| :--------: | ----------- |
+| 2.1        | For example, "Maintain an uptime of 99.9% for the service". |
+| 2.2        | Another measurable key result |
+| 2.3        | Add as many key results as needed to measure the objective. |
