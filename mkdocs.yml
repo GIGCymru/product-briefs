@@ -57,3 +57,4 @@ plugins:
   - search
   - table-reader
   - awesome-nav
+  - blog

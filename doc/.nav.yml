@@ -5,3 +5,5 @@ nav:
   - Product Briefs:
       - Template: product-brief-template.md
       - Integration Hub: integration-hub.md
+  - Blog:
+    - blog/index.md
