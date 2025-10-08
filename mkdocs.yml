@@ -1,6 +1,6 @@
 site_name: GIG Cymru NHS Wales - Product Briefs
-site_url: https://gig-cymru-nhs-wales.github.io/product-briefs/
-repo_url: https://github.com/GIG-Cymru-NHS-Wales/product-briefs/
+site_url: https://gigcymru.github.io/product-briefs/
+repo_url: https://github.com/GIGCymru/product-briefs/
 docs_dir: doc
 edit_uri: edit/main/doc/
 extra_css:
