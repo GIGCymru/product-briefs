@@ -1,8 +1,8 @@
 # GIG Cymru NHS Wales - Product Briefs
 
-[![mkdocs](https://github.com/GIG-Cymru-NHS-Wales/product-briefs/actions/workflows/publish.yml/badge.svg)](https://github.com/GIG-Cymru-NHS-Wales/product-briefs/actions/workflows/publish.yml)
+[![mkdocs](https://github.com/GIGCymru/product-briefs/actions/workflows/publish.yml/badge.svg)](https://github.com/GIGCymru/product-briefs/actions/workflows/publish.yml)
 
-The documents in this repository are published to [https://gig-cymru-nhs-wales.github.io/product-briefs/](https://gig-cymru-nhs-wales.github.io/product-briefs/).
+The documents in this repository are published to [https://gigcymru.github.io/product-briefs/](https://gigcymru.github.io/product-briefs/).
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ There are several ways to set up your development environment:
 
 The fastest way to start contributing:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GIG-Cymru-NHS-Wales/product-briefs?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GIGCymru/product-briefs?quickstart=1)
 
 This provides:
 
@@ -49,7 +49,7 @@ is faster on subsequent launches as the environment is then cached.
 Clone the repository:
 
 ```bash
-    git clone https://github.com/GIG-Cymru-NHS-Wales/product-briefs.git
+    git clone git@github.com:GIGCymru/product-briefs.git
     cd product-briefs
 ```
 
