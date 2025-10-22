@@ -44,6 +44,14 @@ deploy:
 	@echo "The documentation should now be available by browsing https://gigcymru.github.io/product-briefs/"
 
 ##
+# word: convert markdown files to word documents using pandoc
+##
+.PHONY: word
+word:
+	pandoc doc/product-brief-template.md --reference-doc=.github/workflows/markdown-to-word-styles.docx -o product-brief-template.docx
+	@echo "The pandoc command should now be complete."
+
+##
 # newline: display a newline character so we can print prettier messages.
 ##
 .PHONY: newline

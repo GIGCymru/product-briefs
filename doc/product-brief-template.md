@@ -1,6 +1,7 @@
 # {Product Name}
 
 !!! info
+
     **Owner**: { Person or team that owns the Product }
 
     **Phase**: { Pre-Discovery | Discovery   | Alpha | 
@@ -28,7 +29,7 @@ transformation the product will bring to users and the organisation.}
 
 ## Business Problem
 
-Describe the specific business problem(s) this product is designed to solve.
+{Describe the specific business problem(s) this product is designed to solve.}
 
 !!! tip
 
@@ -38,7 +39,7 @@ Describe the specific business problem(s) this product is designed to solve.
 
 ## Business Outcomes & Benefits
 
-How will we know this product has successfully solved the business problem?
+{How will we know this product has successfully solved the business problem?}
 
 !!! tip
 
@@ -48,7 +49,7 @@ How will we know this product has successfully solved the business problem?
 
 ## Users
 
-Identify the primary and secondary users of your product or service.
+{Identify the primary and secondary users of your product or service.}
 
 !!! tip
 
@@ -63,8 +64,8 @@ Identify the primary and secondary users of your product or service.
 
 ## User Outcomes & Benefits
 
-What tangible benefits will users gain from this product? What positive changes
-will they experience as a result of using it?
+{What tangible benefits will users gain from this product? What positive changes
+will they experience as a result of using it?}
 
 !!! tip
 
@@ -74,8 +75,8 @@ will they experience as a result of using it?
 
 ## Strategic Alignment
 
-Explain how this product directly contributes to and supports the organisation's
-overarching strategic goals and objectives.
+{Explain how this product directly contributes to and supports the organisation's
+overarching strategic goals and objectives.}
 
 !!! tip
 
@@ -85,24 +86,24 @@ overarching strategic goals and objectives.
 
 ## Scope
 
-Clearly define what is included within the product's current scope and, equally
-important, what is explicitly out of scope.
+{Clearly define what is included within the product's current scope and, equally
+important, what is explicitly out of scope.}
 
 ## Key Capabilities
 
-Provide a high-level overview of the main functionalities or features the product
-will offer. Focus on *what* the product does, rather than *how* it does it.
+{Provide a high-level overview of the main functionalities or features the product
+will offer. Focus on *what* the product does, rather than *how* it does it.}
 
 ## Key Dependencies & Integrations
 
-Identify any critical systems, teams, or external services that this product
-relies on or needs to integrate with to function effectively.
+{Identify any critical systems, teams, or external services that this product
+relies on or needs to integrate with to function effectively.}
 
 ## Risks & Assumptions
 
-Outline the primary risks associated with the product's development and adoption,
+{Outline the primary risks associated with the product's development and adoption,
 as well as the key assumptions being made that, if proven false, could impact
-the product's success.
+the product's success.}
 
 !!! tip
 
@@ -112,7 +113,7 @@ the product's success.
 
 ## Objectives and Key Results (OKRs)
 
-List the high level objectives and key results for the product.
+{List the high level objectives and key results for the product.}
 
 !!! tip
 
